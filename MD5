@@ -1,0 +1,12 @@
+0d5788f78317ae16a7b0ee79d8628e83 *DESCRIPTION
+2a207a9258970c0ae6ab72a3b0c2d1e4 *NAMESPACE
+7f4bdfb331941941b57a00a1cac78f0f *NEWS.md
+02f96b408a75410f54dedc454548a9b2 *R/boggy-package.R
+be4bb7b57a7312f4154988bbb589b77c *R/data.R
+9e86a7c1116b6b749a5285035b47fa40 *README.md
+20c8d3f97d93e2e318a22508275b5a02 *build/partial.rdb
+c9fd424f21c9a44400f6dc5bf4d22dc1 *data/s1.rda
+e00a4271954c8d65baf7f442afa7c2d4 *man/boggy-package.Rd
+87ba1dcafd2f26eb53bb0e97ee261f60 *man/figures/README-example-1.png
+9c07d94d2b73e848ac948d48b245800e *man/figures/README-example-1.svg
+a9d1f122f109387981c29e03a7dc7658 *man/s1.Rd
